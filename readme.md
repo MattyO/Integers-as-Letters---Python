@@ -1,4 +1,4 @@
-IntegerToCharString
+Integers as Letters
 ===================
 Abstract
 --------
