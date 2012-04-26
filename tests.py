@@ -12,6 +12,10 @@ class numberToLetterTests(unittest.TestCase):
 		self.assertTrue('Z'== convert.numberToLetter(25))
 	def test_26(self):
 		self.assertTrue('AA'== convert.numberToLetter(26))
+	def test_701(self):
+		self.assertTrue('ZZ'== convert.numberToLetter(701))
+	def test_702(self):
+		self.assertTrue('AAA'== convert.numberToLetter(702))
 	def test_1381(self):
 		self.assertTrue('BAD'== convert.numberToLetter(1381))
 

@@ -15,7 +15,7 @@ So the solution in the for-mentioned github repo is written in the J programming
 
 Method
 ------
-The method to produce the resulting string is pretty simple.  It is the same process used to convert a base 10 number to any other bases.  Usually we see this when converting between base 10, 2, and 8.  This time we are coveting to base 26, and using the uppercase alphabet to indicate of placeholder value.
+The method to produce the resulting string is pretty simple.  It is the same process used to convert a base 10 number to any other bases.  Usually we see this when converting between base 10, 2, and 8.  This time we are coveting to base 26, and using the uppercase alphabet to indicate placeholder value.  A more visual description can be found here - http://www.purplemath.com/modules/numbbase.htm
 
 Files
 -----
